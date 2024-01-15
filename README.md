@@ -1,6 +1,6 @@
 ### Olá! Sou o Caio Pacheco 🤙🏻
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caio.nopa/)
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/caionopa/))
+[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caionopa/)
  
 ![Nopa GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioNopa&show_icons=true&theme=transparent)
 
